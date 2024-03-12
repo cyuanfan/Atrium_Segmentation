@@ -9,6 +9,9 @@ The data is provided by the medical segmentation decathlon. (http://medicaldecat
 [MRI Data](https://drive.google.com/file/d/1wEB2I6S6tQBVEPxir8cA5kFB8gTQadYY/view?usp=sharing)
 
 # UNet Weights
+
+<img src="https://github.com/cyuanfan/Atrium_Segmentation/blob/master/U-Net.png" width=75% height=75%>
+
 [Weights](https://drive.google.com/drive/folders/1z0VvByCyNHrRfcZZfCdtngNykVOuo1Ux?usp=drive_link)
 
 # Packages Install
