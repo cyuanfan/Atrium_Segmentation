@@ -1,7 +1,7 @@
 # Atrium_Segmentation
 This project trains a UNet for a medical image segmentation task: segmenting the atrium from cardiac MRI images.
 
-![image](https://github.com/cyuanfan/Atrium_Segmentation/blob/master/demo_video/artium%20segmentation.gif)
+![image](https://github.com/cyuanfan/Atrium_Segmentation/blob/master/artium%20segmentation.gif)
 
 # Cardiac MRI Data 
 The data is provided by the medical segmentation decathlon. (http://medicaldecathlon.com/)
