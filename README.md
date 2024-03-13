@@ -18,27 +18,6 @@ The data is provided by the medical segmentation decathlon. (http://medicaldecat
 
 Dice Score = 0.9288
 
-Label (Left)  vs.   Predict(Right)
-
-<h3 align="left">
-    <a><img src="https://github.com/cyuanfan/Atrium_Segmentation/blob/master/demo_video/artium%20segmentation.gif" width=35% height=35%></a>
-    <a><img src="https://github.com/cyuanfan/Atrium_Segmentation/blob/master/demo_video/artium%20segmentation(predicted).gif" width=35% height=35%></a>
-</h3>
-
-
-<h3 align="left">
-    <a><img src="https://github.com/cyuanfan/Atrium_Segmentation/blob/master/demo_video/artium%20segmentation_2.gif" width=35% height=35%></a>
-    <a><img src="https://github.com/cyuanfan/Atrium_Segmentation/blob/master/demo_video/artium%20segmentation_2(predicted).gif" width=35% height=35%></a>
-</h3>
-
-
-<h3 align="left">
-    <a><img src="https://github.com/cyuanfan/Atrium_Segmentation/blob/master/demo_video/artium%20segmentation_3.gif" width=35% height=35%></a>
-    <a><img src="https://github.com/cyuanfan/Atrium_Segmentation/blob/master/demo_video/artium%20segmentation_3(predicted).gif" width=35% height=35%></a>
-</h3>
-
-If the gif animations are not smooth or synchronized, you can watch the demo at the link below.
-
 [Demo-1](https://www.youtube.com/watch?v=IDDKDRZ0Ajg)
 [Demo-2](https://www.youtube.com/watch?v=xXLJWxG7MIc)
 [Demo-3](https://www.youtube.com/watch?v=QGxEBs3Sd7E)
